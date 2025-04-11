@@ -5,6 +5,7 @@ EasyGantt is an excel template that generates GANTT-flavored plantuml markup.
 - 3-level timebox (phase/sprint/event)
 - Configurable frontmatter/style
 - Linked task visual indicators
+- Configurable Start/End
 
 # Input
 <img src="https://github.com/user-attachments/assets/0dd8c61c-d683-4c08-82ea-5dcf73f11589" alt="EasyGantt Input" width="500" height="600">
