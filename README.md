@@ -2,20 +2,20 @@
 EasyGantt is an excel template that generates GANTT-flavored plantuml markup.
 
 ## Features
-- 3-level timebox (phase/sprint/event)
-- Time-based progress indication
-- Configurable frontmatter/style
-- Linked task visual indicators
-- Configurable Start/End
+- Quickly visualize agile sprint themes over long periods
+- 3 timebox levels (phase/sprint/event)
+- Automatic progress indication
+- Configurable frontmatter, style, scale
+- Visual indicators for linked dates
+- Zoom to time period
+- Store GANTT as code for easy versioning
 
-# Input
-<img src="https://github.com/user-attachments/assets/0dd8c61c-d683-4c08-82ea-5dcf73f11589" alt="EasyGantt Input" width="500" height="600">
+## Example
 
-# Rendered GANTT
+![alt text](example.png)
 
-![image](https://github.com/user-attachments/assets/cc5222b3-8bb3-445e-9770-18f4fc46647b)
 
-# Puml markup
+## Puml markup
 ```startuml
 @startgantt
 <style>

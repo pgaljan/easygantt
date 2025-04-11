@@ -1,0 +1,86 @@
+@startgantt
+<style>
+ganttDiagram {
+task {
+BackGroundColor #ffe6e6
+LineColor White
+}
+undone {
+BackGroundColor LightGray
+}
+}
+</style>
+title Atlas Sprint Schedule
+projectscale monthly zoom 3
+hide footbox
+footer generated: %date("YYYY-MM-dd")
+Project starts 2024-11-19
+[Ideate] starts on 2024-11-19 and ends on 2024-12-19
+[Proof of Concept] starts on 2024-12-20 and ends on 2025-03-19
+[Sprint 00: Architect] starts on 2024-12-20 and ends on 2025-01-03
+[Sprint 01: Design] starts on 2025-01-04 and ends on 2025-01-18
+[Sprint 02: Backend] starts on 2025-01-19 and ends on 2025-02-02
+[Sprint 03: Frontend] starts on 2025-02-03 and ends on 2025-02-17
+[Sprint 04: Integrate] starts on 2025-02-18 and ends on 2025-03-04
+[Sprint 05: Onboarding] starts on 2025-03-05 and ends on 2025-03-19
+[Prototype] starts on 2025-03-20 and ends on 2025-08-07
+[Sprint 06: Admin & Invites] starts on 2025-03-20 and ends on 2025-04-09
+[Sprint 07: Renderer R&D] starts on 2025-04-10 and ends on 2025-04-24
+[Sprint 08: Quill Enhancements - pictures, tables] starts on 2025-04-25 and ends on 2025-05-09
+[Sprint 09: Markdown] starts on 2025-05-10 and ends on 2025-05-24
+[Sprint 10: PlantUML & Latex] starts on 2025-05-25 and ends on 2025-06-08
+[Sprint 11: Content Safety API] starts on 2025-06-09 and ends on 2025-06-23
+[Sprint 12: Structure Sharing] starts on 2025-06-24 and ends on 2025-07-08
+[Sprint 13: Cross-Structure Reporting] starts on 2025-07-09 and ends on 2025-07-23
+[Sprint 14: User Metrics] starts on 2025-07-24 and ends on 2025-08-07
+[Restricted Preview] starts on 2025-08-08 and ends on 2025-12-05
+[Sprint 15: Platform Metrics & Alerting] starts on 2025-08-08 and ends on 2025-08-22
+[Sprint 16: Test Automation ] starts on 2025-08-23 and ends on 2025-09-06
+[Sprint 17: Web Analytics] starts on 2025-09-07 and ends on 2025-09-21
+[Sprint 18: LLM Ingest] starts on 2025-09-22 and ends on 2025-10-06
+[Sprint 19: Penetration Testing] starts on 2025-10-07 and ends on 2025-10-21
+[Sprint 20: Cost Optimization] starts on 2025-10-22 and ends on 2025-11-05
+[Sprint 21: Automated Scaling] starts on 2025-11-06 and ends on 2025-11-20
+[Sprint 22: Payment Processing] starts on 2025-11-21 and ends on 2025-12-05
+[Invite Preview] starts on 2025-12-06 and ends on 2026-02-18
+[Sprint 23: Design Review] starts on 2025-12-06 and ends on 2025-12-20
+[Sprint 24: Design Adaptation] starts on 2025-12-21 and ends on 2026-01-04
+[Sprint 25: Regulatory Review] starts on 2026-01-05 and ends on 2026-01-19
+[Sprint 26: User Acq. & Marketing plan] starts on 2026-01-20 and ends on 2026-02-03
+[Sprint 27: Business Plan] starts on 2026-02-04 and ends on 2026-02-18
+[Launch] happens on 2026-02-17
+[Ideate] is 100% complete
+[Proof of Concept] is 100% complete
+[Sprint 00: Architect] is 100% complete
+[Sprint 01: Design] is 100% complete
+[Sprint 02: Backend] is 100% complete
+[Sprint 03: Frontend] is 100% complete
+[Sprint 04: Integrate] is 100% complete
+[Sprint 05: Onboarding] is 100% complete
+[Prototype] is 16% complete
+[Sprint 06: Admin & Invites] is 100% complete
+[Sprint 07: Renderer R&D] is 7% complete
+[Sprint 08: Quill Enhancements - pictures, tables] is 0% complete
+[Sprint 09: Markdown] is 0% complete
+[Sprint 10: PlantUML & Latex] is 0% complete
+[Sprint 11: Content Safety API] is 0% complete
+[Sprint 12: Structure Sharing] is 0% complete
+[Sprint 13: Cross-Structure Reporting] is 0% complete
+[Sprint 14: User Metrics] is 0% complete
+[Restricted Preview] is 0% complete
+[Sprint 15: Platform Metrics & Alerting] is 0% complete
+[Sprint 16: Test Automation ] is 0% complete
+[Sprint 17: Web Analytics] is 0% complete
+[Sprint 18: LLM Ingest] is 0% complete
+[Sprint 19: Penetration Testing] is 0% complete
+[Sprint 20: Cost Optimization] is 0% complete
+[Sprint 21: Automated Scaling] is 0% complete
+[Sprint 22: Payment Processing] is 0% complete
+[Invite Preview] is 0% complete
+[Sprint 23: Design Review] is 0% complete
+[Sprint 24: Design Adaptation] is 0% complete
+[Sprint 25: Regulatory Review] is 0% complete
+[Sprint 26: User Acq. & Marketing plan] is 0% complete
+[Sprint 27: Business Plan] is 0% complete
+
+@endgantt
